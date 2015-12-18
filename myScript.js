@@ -1,5 +1,6 @@
 function setup(){
-  createCanvas(710, 400, WEBGL);
+  var myCanvas = createCanvas(710, 400, WEBGL);
+  myCanvas.parent('p5Container');
 }
 
 function draw(){
