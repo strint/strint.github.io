@@ -1,5 +1,5 @@
 function setup(){
-  var myCanvas = createCanvas(710, 400);
+  var myCanvas = createCanvas(300, 200);
   myCanvas.parent('p5Container');
 }
 
