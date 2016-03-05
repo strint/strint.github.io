@@ -2,11 +2,17 @@
 * 邮箱：xuxiaoyu2048[at]foxmail.com | 电话：152108三5三95 
 * 博客：http://strint.github.io/ | GitHub：https://github.com/strint  
 
+---
+
 ### 工作记录
 * 近期的工作记录：https://github.com/strint/strint.github.io/issues/9
 
+---
+
 ### 教育经历
 北京邮电大学，计算机科学与技术专业，2009~2013本科生，2014~2017.3硕士研究生。 
+
+---
 
 ### 技术背景
 * 常用语言：C++/C，Python；常用开发环境：Visual Studio/SVN，Linux/Vim/Git；
@@ -14,6 +20,8 @@
 * 机器学习：SVM，逻辑回归，LBFGS，OWLQN，卷积神经网络；
 * 计算机基础：了解常用的计算机系统知识、算法和数据结构知识，了解函数式程序设计；
 * 英语：六级，经常阅读英文书籍、文档、论文，可以做正常的交流。
+
+---
 
 ### 项目经历
 * 并行逻辑回归（2016.2~ ）
