@@ -1,6 +1,8 @@
 ### xuxiaoyu的简历
 * 邮箱：xuxiaoyu2048[at]foxmail.com | 电话：152108三5三95 
 * 博客：http://strint.github.io/ | GitHub：https://github.com/strint  
+
+### 工作记录
 * 近期的工作记录：https://github.com/strint/strint.github.io/issues/9
 
 ### 教育经历
