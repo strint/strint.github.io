@@ -1,5 +1,9 @@
 ### xuxiaoyu的简历
-邮箱：xuxiaoyu2048[at]foxmail.com | 电话：152108三5三95  | 博客：http://strint.github.io/ | GitHub：https://github.com/strint  
+* 邮箱：xuxiaoyu2048[at]foxmail.com | 电话：152108三5三95 
+* 博客：http://strint.github.io/ | GitHub：https://github.com/strint  
+
+### 工作记录
+近期的工作记录：https://github.com/strint/strint.github.io/issues/9
 
 ### 教育经历
 北京邮电大学，计算机科学与技术专业，2009~2013本科生，2014~2017.3硕士研究生。 
@@ -23,4 +27,5 @@
 
 * 垂直搜索引擎（2013.3~2013.6）
 实现对旅游信息的搜索。在Linux环境下，针对去哪儿网，使用Python urllib2开发了爬虫，爬取了去哪儿网的20万条旅游信息（约占十分之一），使用MongoDB存储下来，并使用Apache Solr搭建了索引和搜索部分；系统能够搜索某地、某个时间段、带有某个关键词的旅游信息。解决的问题包括了解网站数据的传输方式、系统地爬取网站数据等。
+
 
