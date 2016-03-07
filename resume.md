@@ -11,9 +11,9 @@
 
 ### 技术背景
 * 常用语言：C++/C，Python；常用开发环境：Visual Studio/SVN，Linux/Vim/Git；
-* 并行和分布式程序设计：SPEEDES（离散事件并行仿真服务），[Pthreads，MPI]()；
-* 机器学习：SVM，[逻辑回归，LBFGS，OWLQN]()，[卷积神经网络]()；
-* 计算机基础：了解常用的[计算机系统知识]()、[算法和数据结构知识]()，了解[函数式程序设计]()；
+* 并行和分布式程序设计：SPEEDES（离散事件并行仿真服务），[Pthreads，MPI](https://github.com/strint/DML/tree/master/logistic_regression)；
+* 机器学习：SVM，[逻辑回归，LBFGS，OWLQN](https://github.com/strint/LogisticRegression_OWLQN_Notes)，[卷积神经网络](http://blog.csdn.net/strint/article/details/44163869)；
+* 计算机基础：了解常用的[计算机系统知识](https://github.com/strint/littleWheels/tree/master/CSAPP)、[算法和数据结构知识](https://github.com/strint/littleWheels/tree/master/AlgorithmsAndDataStructures)，了解[函数式程序设计](https://github.com/strint/sicpAns)；
 * 英语：六级，经常阅读英文书籍、文档、论文，可以做正常的交流。
 
 ---
