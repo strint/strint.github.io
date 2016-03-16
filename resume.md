@@ -10,10 +10,10 @@
 
 
 ## 专业技能
-* 常用语言：C++/C； 常用开发环境：Visual Studio、SVN，Linux、Vim、Git；
-* 并行和分布式程序设计：SPEEDES（离散事件并行仿真服务），Pthreads，MPI；
-* 机器学习：逻辑回归，OWLQN算法，卷积神经网络；
-* 计算机：了解函数式程序设计，了解常用的计算机系统知识、算法和数据结构知识；
+* 常用[语言](https://github.com/strint/littleWheels/tree/master/ProgrammingAndLanguages)：C++/C； 常用开发环境：Visual Studio、SVN，Linux、Vim、Git；
+* [并行和分布式程序设计](https://github.com/strint/littleWheels/tree/master/ParallelAndDistributed)：SPEEDES（离散事件并行仿真服务），Pthreads，MPI；
+* [机器学习](https://github.com/strint/littleWheels/tree/master/MachineLearning)：逻辑回归，OWLQN算法，卷积神经网络；
+* 计算机：了解[函数式程序设计](https://github.com/strint/sicpAns)，了解常用的[计算机系统知识]()、[算法和数据结构知识](https://github.com/strint/littleWheels/tree/master/AlgorithmsAndDataStructures)；
 * 英语：六级，经常阅读英文书籍、文档、论文。
 
 
