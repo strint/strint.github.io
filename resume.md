@@ -1,5 +1,11 @@
 ### xuxiaoyu的简历
-* 邮箱：xuxiaoyu2048[at]foxmail.com  |  电话：152108三5三95 | 博客：http://strint.github.io |  GitHub：https://github.com/strint  
+* 邮箱：xuxiaoyu2048[at]foxmail.com  |  电话：152108三5三95 
+* 博客：http://strint.github.io |  GitHub：https://github.com/strint
+
+### 感兴趣的方向
+* 基础系统开发
+* 算法并行
+* 机器学习
 
 ---
 
@@ -20,7 +26,6 @@
 
 ### 项目经历
 * **并行逻辑回归和OWLQN**（2016.2~ ）
-
 将OWLQN优化算法使用Pthreads和MPI并行化，求解逻辑回归问题，进行中...[项目链接](https://github.com/strint/DML/tree/master/logistic_regression)
 
 * **基于并行离散事件的空军作战系统建模**（2015.3~2015.12）
