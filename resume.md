@@ -1,8 +1,15 @@
 ## xuxiaoyu的简历
 * 邮箱：xuxiaoyu2048[at]foxmail.com  |  电话：152108三5三95 
 * 博客：http://strint.github.io |  GitHub：https://github.com/strint
-* 感兴趣的方向：基础系统开发，算法并行，机器学习
 
+## 感兴趣的方向
+* 系统
+ * [程序设计语言](https://github.com/strint/littleWheels/tree/master/ProgrammingAndLanguages)
+ * [并行和分布式](https://github.com/strint/littleWheels/tree/master/ParallelAndDistributed)
+
+* 算法
+ * [机器学习](https://github.com/strint/littleWheels/tree/master/MachineLearning)
+ * 计算机视觉
 
 ## 教育背景
 * 2014.6~2017.4 北京邮电大学 计算机学院 移动机器人与智能技术实验室 硕士研究生
