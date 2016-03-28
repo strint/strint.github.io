@@ -1,13 +1,12 @@
-## xuxiaoyu的简历
+## xuxiaoyu
 * 邮箱：xuxiaoyu2048[at]foxmail.com 
 * 博客：http://strint.github.io |  GitHub：https://github.com/strint
+* 北邮本硕
 
 ## 专业技能
-* 计算机：[语言](https://github.com/strint/littleWheels/tree/master/ProgrammingAndLanguages)；[函数式程序设计](https://github.com/strint/sicpAns)，[计算机系统](https://github.com/strint/littleWheels/tree/master/ComputerSystems)，[算法和数据结构](https://github.com/strint/littleWheels/tree/master/AlgorithmsAndDataStructures)；
+* 计算机：[程序设计语言](https://github.com/strint/littleWheels/tree/master/ProgrammingAndLanguages)；[函数式程序设计](https://github.com/strint/sicpAns)，[计算机系统](https://github.com/strint/littleWheels/tree/master/ComputerSystems)，[算法和数据结构](https://github.com/strint/littleWheels/tree/master/AlgorithmsAndDataStructures)；
 * [并行和分布式程序设计](https://github.com/strint/littleWheels/tree/master/ParallelAndDistributed)：Pthreads（线程并行），MPI（进程并行），SPEEDES（对象级并行）；
 * [机器学习](https://github.com/strint/littleWheels/tree/master/MachineLearning)：逻辑回归，OWLQN算法，卷积神经网络；
-* 英语：六级，经常阅读英文书籍、文档、论文。
-
 
 ## 项目经历
 * 并行逻辑回归和OWLQN（2016.2~ ）
@@ -20,16 +19,6 @@
 * 《计算机程序的构造和解释》编程习题解（2014.6~2015.7）
 
 * 垂直搜索引擎原型（2013.3~2013.6）
-
-
-## 感兴趣的方向
-* 系统
- * [程序设计语言](https://github.com/strint/littleWheels/tree/master/ProgrammingAndLanguages)
- * [并行和分布式](https://github.com/strint/littleWheels/tree/master/ParallelAndDistributed)
-
-* 算法
- * [机器学习](https://github.com/strint/littleWheels/tree/master/MachineLearning)
- * 计算机视觉
 
 ## 工作记录
 * 近期的工作记录：https://github.com/strint/strint.github.io/issues/9
