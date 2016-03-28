@@ -7,10 +7,9 @@
 * 2009.9~2013.6 北京邮电大学 计算机学院 计算机科学与技术专业       本科生
 
 ## 专业技能
-* 常用[语言](https://github.com/strint/littleWheels/tree/master/ProgrammingAndLanguages)：C++/C； 常用开发环境：Visual Studio、SVN，Linux、Vim、Git；
-* [并行和分布式程序设计](https://github.com/strint/littleWheels/tree/master/ParallelAndDistributed)：SPEEDES（离散事件并行仿真服务），Pthreads，MPI；
+* 计算机：[语言](https://github.com/strint/littleWheels/tree/master/ProgrammingAndLanguages)；[函数式程序设计](https://github.com/strint/sicpAns)，[计算机系统](https://github.com/strint/littleWheels/tree/master/ComputerSystems)，[算法和数据结构](https://github.com/strint/littleWheels/tree/master/AlgorithmsAndDataStructures)；
+* [并行和分布式程序设计](https://github.com/strint/littleWheels/tree/master/ParallelAndDistributed)：Pthreads（线程并行），MPI（进程并行），SPEEDES（对象级并行）；
 * [机器学习](https://github.com/strint/littleWheels/tree/master/MachineLearning)：逻辑回归，OWLQN算法，卷积神经网络；
-* 计算机：了解[函数式程序设计](https://github.com/strint/sicpAns)，了解常用的[计算机系统知识](https://github.com/strint/littleWheels/tree/master/ComputerSystems)、[算法和数据结构知识](https://github.com/strint/littleWheels/tree/master/AlgorithmsAndDataStructures)；
 * 英语：六级，经常阅读英文书籍、文档、论文。
 
 
