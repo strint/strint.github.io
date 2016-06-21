@@ -1,4 +1,6 @@
 ## 推荐链接
+> 直接或间接抱过的大腿 :D
+
 * 王孝舒，机器学习，http://www.doesbetter.com/
 * Superjom，机器学习模型，http://superjom.duapp.com/
 * Jinliang，优化算法， http://www.jinliangxu.com//blogs/
